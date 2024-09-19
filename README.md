@@ -16,7 +16,7 @@ This is a simple single-page CV project built using only HTML. The goal of this 
 
 ## Project Link
 
-You can view the live version of the project here: [Single Page CV Project](https://khifayath007.github.io/Single-Page-CV/)
+You can view the live version of the project here: [Single Page CV Project](https://roadmap.sh/projects/single-page-cv)
 
 ## Getting Started
 
