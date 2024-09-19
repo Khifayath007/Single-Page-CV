@@ -14,6 +14,10 @@ This is a simple single-page CV project built using only HTML. The goal of this 
 - Only HTML used - no external libraries or frameworks
 - Organized sections for personal information, skills, experience, and education
 
+## Project Link
+
+You can view the live version of the project here: [Single Page CV Project](https://khifayath007.github.io/Single-Page-CV/)
+
 ## Getting Started
 
 To view or edit the single-page CV, simply download the `index.html` file and open it in your web browser. 
