@@ -16,7 +16,8 @@ This is a simple single-page CV project built using only HTML. The goal of this 
 
 ## Project Link
 
-You can view the live version of the project here: [Single Page CV Project](https://roadmap.sh/projects/single-page-cv)
+You can view the live version of the project here: [Single Page CV Project]()
+For more details and guidance, check out the [Basic HTML Website Project Guide](https://roadmap.sh/projects/single-page-cv).
 
 ## Getting Started
 
